@@ -3,8 +3,6 @@ import GenreClassification
 import os
 import time
 import requests
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 
 def faSamePage(url1, url2):
